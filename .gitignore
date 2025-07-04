@@ -1,0 +1,37 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# Flutter/Dart
+/Flutter/build/
+/Flutter/.dart_tool/
+/Flutter/.flutter-plugins
+/Flutter/.flutter-plugins-dependencies
+/Flutter/.packages
+/Flutter/.pub-cache/
+/Flutter/.pub/
+/Flutter/ios/Pods/
+/Flutter/ios/Flutter/App.framework
+/Flutter/ios/Flutter/Flutter.framework
+/Flutter/ios/Flutter/pod_runner.xcworkspace
+/Flutter/ios/.symlinks/
+/Flutter/ios/Runner.xcworkspace
+/Flutter/linux/flutter/ephemeral
+/Flutter/macos/Flutter/ephemeral
+/Flutter/windows/flutter/ephemeral
+/Flutter/web/
+
+# IntelliJ
+.idea/
+*.iml
+*~
+
+# Visual Studio Code
+.vscode/
