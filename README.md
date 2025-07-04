@@ -44,12 +44,12 @@ A modern, smart, and minimalistic Flutter dashboard for real-time fire detection
 ## 📱 Screenshots
 
 
-!(Pict/1.jpg)
-!(Pict/2.jpg)
-!(Pict/3.jpg)
-!(Pict/4.jpg)
-!(Pict/5.jpg)
-!(Pict/6jpg)
+![Lampiran](Pict/1.jpg)
+![Lampiran](Pict/2.jpg)
+![Lampiran](Pict/3.jpg)
+![Lampiran](Pict/4.jpg)
+![Lampiran](Pict/5.jpg)
+![Lampiran](Pict/6jpg)
 
 
 
